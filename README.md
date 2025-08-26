@@ -29,29 +29,33 @@ Run: python make_index.py (May take a long time depending on GPU)
 
 Then Run: python find_quote.py (For testing)
 
-Example Terminal After Running find_quote.py:
+## 📊 Example Run  
 
-Loading model...
+    PS C:\Users\micha\OneDrive\CS - 3600\Homework10\LLM> python find_quote.py
+    Loading model...
+    Loading FAISS index...
+    Using key-value store of type dbm.dumb
+    Paraphrase your quote: People love to grind
 
-Loading FAISS index...
+    22359: 'You can either complain about it or grind, I choose to grind.'
+            Kyle Vidrine, Wake Up The Winner In You: Your Time Is Now
 
-Using key-value store of type dbm.dumb
+    360281: 'I got that money on my mind but I ain't blind. I see that if I want it, I have to grind.'
+            Jonathan Anthony Burkett
 
-Paraphrase your quote: People love to grind
-
-
-22359: 'You can either complain about it or grind, I choose to grind.'
-
-        Kyle Vidrine, Wake Up The Winner In You: Your Time Is Now
-
-
-360281: 'I got that money on my mind but I ain't blind. I see that if I want it, I have to grind.'
-       
-        Jonathan Anthony Burkett
+    325464: 'You could never understand why I grind like I doMakiyah & Jalani why I grind like I do'
+            Nicki Minaj
+    Time taken: 1.466 seconds
 
 
-325464: 'You could never understand why I grind like I doMakiyah & Jalani why I grind like I do'
-        
-        Nicki Minaj
+    Paraphrase your quote: Coding is the future
 
-Time taken: 1.466 seconds
+    148380: 'Computer Coding is a life skill for this generation.'
+            Tamara Zentic MS
+
+    291906: 'If you control the code, you control the world. This is the future that awaits us.'
+            Marc Goodman, Future Crimes: Everything Is Connected, Everyone Is Vulnerable, and What We Can Do About It
+
+    199487: 'Coding is other type of magic!'
+            Deyth Banger
+    Time taken: 0.283 seconds
