@@ -30,17 +30,28 @@ Run: python make_index.py (May take a long time depending on GPU)
 Then Run: python find_quote.py (For testing)
 
 Example Terminal After Running find_quote.py:
+
 Loading model...
+
 Loading FAISS index...
+
 Using key-value store of type dbm.dumb
+
 Paraphrase your quote: People love to grind
 
+
 22359: 'You can either complain about it or grind, I choose to grind.'
+
         Kyle Vidrine, Wake Up The Winner In You: Your Time Is Now
 
+
 360281: 'I got that money on my mind but I ain't blind. I see that if I want it, I have to grind.'
+       
         Jonathan Anthony Burkett
 
+
 325464: 'You could never understand why I grind like I doMakiyah & Jalani why I grind like I do'
+        
         Nicki Minaj
+
 Time taken: 1.466 seconds
