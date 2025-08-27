@@ -36,28 +36,15 @@ Loading FAISS index...
 
 Using key-value store of type dbm.dumb
 
-Paraphrase your quote: People love to grind
+Paraphrase your quote: Coding is the future  
 
+148380: 'Computer Coding is a life skill for this generation.'  
+&nbsp;&nbsp;&nbsp;&nbsp;Tamara Zentic MS  
 
-22359: 'You can either complain about it or grind, I choose to grind.'  
-&nbsp;&nbsp;&nbsp;&nbsp;Kyle Vidrine, *Wake Up The Winner In You: Your Time Is Now*  
+291906: 'If you control the code, you control the world. This is the future that awaits us.'  
+&nbsp;&nbsp;&nbsp;&nbsp;Marc Goodman, *Future Crimes: Everything Is Connected, Everyone Is Vulnerable, and What We Can Do About It*  
 
-360281: 'I got that money on my mind but I ain't blind. I see that if I want it, I have to grind.'  
-&nbsp;&nbsp;&nbsp;&nbsp;Jonathan Anthony Burkett  
+199487: 'Coding is other type of magic!'  
+&nbsp;&nbsp;&nbsp;&nbsp;Deyth Banger  
 
-325464: 'You could never understand why I grind like I doMakiyah & Jalani why I grind like I do'  
-&nbsp;&nbsp;&nbsp;&nbsp;Nicki Minaj  
-
-
-
-Paraphrase your quote: Coding is the future
-
-148380: 'Computer Coding is a life skill for this generation.'
-        Tamara Zentic MS
-
-291906: 'If you control the code, you control the world. This is the future that awaits us.'
-        Marc Goodman, Future Crimes: Everything Is Connected, Everyone Is Vulnerable, and What We Can Do About It
-
-199487: 'Coding is other type of magic!'
-        Deyth Banger
-Time taken: 0.283 seconds
+Time taken: 0.283 seconds  
