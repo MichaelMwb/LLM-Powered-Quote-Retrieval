@@ -25,6 +25,8 @@ You can build a new index and try it with the **sample quotes file** or download
 👉 [Download Prebuilt Project](https://drive.google.com/drive/folders/13RcP0Xfi9E1Wkp1QZ0D7zUPSaQkuId3d?usp=sharing)  
 
 ### Build a New Index – Windows Usage  
+
+First Run:
 ```
 python make_index.py   # May take a long time depending on GPU
 ```
