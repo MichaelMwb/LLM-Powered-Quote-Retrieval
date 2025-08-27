@@ -24,12 +24,6 @@ Traditional keyword search fails when wording changes. For example, “Follow yo
 You can build a new index and try it with the **sample quotes file** or download the **prebuilt FAISS index and the Quote Metadata Database** with the link below **(~500k quotes)**:  
 👉 [Download Prebuilt Project](https://drive.google.com/drive/folders/13RcP0Xfi9E1Wkp1QZ0D7zUPSaQkuId3d?usp=sharing)  
 
-## ⚠️ GPU / CUDA Requirement
-This project requires a CUDA-enabled GPU. The code is set to run on `device="cuda"`.
-- Tested with **CUDA 12.1** and `torch==2.5.1+cu121`.
-- Make sure your system has a compatible GPU driver and CUDA runtime installed.  
-- If you want to run on CPU instead, change `device="cuda"` to `device="cpu"` in the code.
-
 ### Build a New Index
 
 First Run:
@@ -59,3 +53,9 @@ Paraphrase your quote: Coding is the future
 &nbsp;&nbsp;&nbsp;&nbsp;Deyth Banger  
 
 Time taken: 0.283 seconds  
+
+## ⚠️ GPU / CUDA Requirement
+This project requires a CUDA-enabled GPU. The code is set to run on `device="cuda"`.
+- Tested with **CUDA 12.1** and `torch==2.5.1+cu121`.
+- Make sure your system has a compatible GPU driver and CUDA runtime installed.  
+- If you want to run on CPU instead, change `device="cuda"` to `device="cpu"` in the code.
