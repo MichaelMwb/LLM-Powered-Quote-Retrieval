@@ -45,7 +45,6 @@ Paraphrase your quote: People love to grind
 
 360281: 'I got that money on my mind but I ain't blind. I see that if I want it, I have to grind.'
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jonathan Anthony Burkett
-
 325464: 'You could never understand why I grind like I doMakiyah & Jalani why I grind like I do'
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nicki Minaj
 Time taken: 1.466 seconds
