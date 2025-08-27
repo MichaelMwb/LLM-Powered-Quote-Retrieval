@@ -49,10 +49,10 @@ while True:
     # Step throught the results
     for i in range(BEST_K):
         # Get the index out of the numpy array and into an int
-        idx =int(I[0][i])## Your code here
+        idx =int(I[0][i])## 
         print(f"{idx}", file=results_file)
 
-        ## Your code here
+        ## 
         sentence = pickle.loads(db[str(idx).encode("utf-8")])[0]
         attributes = pickle.loads(db[str(idx).encode("utf-8")])[1]
 
@@ -65,5 +65,5 @@ while True:
 results_file.close()
 
 # Close the key-value store
-## Your code here
+## 
 db.close()
