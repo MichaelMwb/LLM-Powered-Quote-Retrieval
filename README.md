@@ -40,16 +40,14 @@ Paraphrase your quote: People love to grind
 
 
 22359: 'You can either complain about it or grind, I choose to grind.'  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kyle Vidrine, *Wake Up The Winner In You: Your Time Is Now*
+&nbsp;&nbsp;&nbsp;&nbsp;Kyle Vidrine, *Wake Up The Winner In You: Your Time Is Now*  
 
+360281: 'I got that money on my mind but I ain't blind. I see that if I want it, I have to grind.'  
+&nbsp;&nbsp;&nbsp;&nbsp;Jonathan Anthony Burkett  
 
-360281: 'I got that money on my mind but I ain't blind. I see that if I want it, I have to grind.'
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jonathan Anthony Burkett
+325464: 'You could never understand why I grind like I doMakiyah & Jalani why I grind like I do'  
+&nbsp;&nbsp;&nbsp;&nbsp;Nicki Minaj  
 
-325464: 'You could never understand why I grind like I doMakiyah & Jalani why I grind like I do'
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nicki Minaj
-
-Time taken: 1.466 seconds
 
 
 Paraphrase your quote: Coding is the future
