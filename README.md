@@ -1,4 +1,4 @@
-# Quote Retrieval – Semantic Search with LLM Embeddings  
+# 🔍 Quote Retrieval – Semantic Search with LLM Embeddings  
 
 This project implements a **semantic search system** that retrieves quotes based on meaning rather than exact keywords. By embedding quotes and user queries into a high-dimensional vector space, the system finds the closest matches using **FAISS similarity search**.  
 
