@@ -24,11 +24,14 @@ Traditional keyword search fails when wording changes. For example, “Follow yo
 You can build a new index and try it with the **sample quotes file** or download the **prebuilt FAISS index and the Quote Metadata Database (~500k quotes)**:  
 👉 [Download Prebuilt Project](https://your-google-drive-link.com)  
 
-### Build a New Index - Windows Usage
-Run: python make_index.py (May take a long time depending on GPU)
-
-Then Run: python find_quote.py (For testing)
-
+### Build a New Index – Windows Usage  
+```
+python make_index.py   # May take a long time depending on GPU
+```
+Then Run:
+```
+python find_quote.py  # For running tests
+```
 ## 📊 Example Run  
 Loading model...
 
