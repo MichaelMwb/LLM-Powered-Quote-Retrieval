@@ -31,12 +31,18 @@ Then Run: python find_quote.py (For testing)
 
 ## 📊 Example Run  
 Loading model...
+
 Loading FAISS index...
+
 Using key-value store of type dbm.dumb
+
 Paraphrase your quote: People love to grind
 
-22359: 'You can either complain about it or grind, I choose to grind.'
-        Kyle Vidrine, Wake Up The Winner In You: Your Time Is Now
+
+22359: 'You can either complain about it or grind, I choose to grind.'  
+> Kyle Vidrine, *Wake Up The Winner In You: Your Time Is Now*
+
+
 
 360281: 'I got that money on my mind but I ain't blind. I see that if I want it, I have to grind.'
         Jonathan Anthony Burkett
