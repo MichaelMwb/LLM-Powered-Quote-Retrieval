@@ -21,13 +21,13 @@ Traditional keyword search fails when wording changes. For example, “Follow yo
 
 ## 🛠 Usage  
 
-You can build a new index and try it with the **sample quotes file** or download the **prebuilt FAISS index and the Quote Metadata Database** with the link below **(~500k quotes)**:  
+You can build a new index and try it with the **sample quotes file** for quick testing, or download the **prebuilt FAISS index and the Quote Metadata Database** for full use with the link below **(~500k quotes)**:  
 
 👉 [Download Prebuilt Project](https://drive.google.com/drive/folders/13RcP0Xfi9E1Wkp1QZ0D7zUPSaQkuId3d?usp=sharing)  
 
 ### How to Build a New Index
 
-First Run:
+Once the Requirements are Installed, Run:
 ```
 python3 make_index.py   # May take a long time depending on GPU
 ```
