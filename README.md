@@ -40,7 +40,8 @@ Paraphrase your quote: People love to grind
 
 
 22359: 'You can either complain about it or grind, I choose to grind.'  
-> Kyle Vidrine, *Wake Up The Winner In You: Your Time Is Now*
+&nbsp;&nbsp;&nbsp;&nbsp;Kyle Vidrine, *Wake Up The Winner In You: Your Time Is Now*
+
 
 
 
