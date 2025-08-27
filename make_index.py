@@ -54,10 +54,10 @@ print("Storing embeddings in FAISS index...")
 index = faiss.IndexFlatIP(dimension)
 
 # Put the vectors into the index
-## Your code here
+## 
 index.add(embeddings)
 # Save the index (with the vectors) to INDEX_PATH
-## Your code here
+## 
 faiss.write_index(index, INDEX_PATH)
 
 after_index_time = perf_counter()
@@ -65,12 +65,12 @@ after_index_time = perf_counter()
 print("Storing text/attributes to key-value store...")
 
 # Open a key-value store
-## Your code here
+## 
 db= dbm.open(DB_PATH, "c")
 # For each quote
 for i in range(len(sentences)):
     # Convert the index to bytes
-    key_bytes = str(i).encode("utf-8")## Your code here
+    key_bytes = str(i).encode("utf-8")## 
 
     # Convert the quote and its info to bytes using pickle
     value_bytes = pickle.dumps((sentences[i], attributes[i]))  
@@ -79,7 +79,7 @@ for i in range(len(sentences)):
     db[key_bytes] = value_bytes
 
 # Close the key-value store
-## Your code here
+## 
 db.close()
 after_kv_time = perf_counter()
 
